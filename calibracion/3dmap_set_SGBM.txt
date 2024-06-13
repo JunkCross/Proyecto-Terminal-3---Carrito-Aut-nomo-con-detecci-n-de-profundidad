@@ -1,0 +1,11 @@
+{
+    "P1_filter":9,
+    "P2_filter":74,
+    "SADWindowSize":5,
+    "disp12MaxDiff":100,
+    "minDisparity":-62,
+    "preFilterCap":1,
+    "speckleRange":0,
+    "speckleWindowSize":0,
+    "uniquenessRatio":1
+}
